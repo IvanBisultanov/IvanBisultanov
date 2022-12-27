@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ivan Bisultanau </h1>
+<h3 align="center">A passionate Senior Front End Developer from 🇦🇩 Andorra</h3>
+
+
+- 🅰️  I'm a Fan of Angular
+
+- 🚒  I review and provide suggestions how Angular projects can be improved 
+
+- 💬  Ask me **how to improve your Angular application**
 
 <!--
 **IvanBisultanov/IvanBisultanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
